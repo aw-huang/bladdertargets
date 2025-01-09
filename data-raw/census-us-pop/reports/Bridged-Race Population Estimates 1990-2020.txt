@@ -1,0 +1,211 @@
+"Notes"	"Age"	"Age Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Yearly July 1st Estimates"	"Yearly July 1st Estimates Code"	Population
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1990"	"1990"	15457
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1991"	"1991"	16392
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1992"	"1992"	17464
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1993"	"1993"	18597
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1994"	"1994"	19579
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1995"	"1995"	20366
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1996"	"1996"	21416
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1997"	"1997"	22452
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1998"	"1998"	23339
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	24033
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	24782
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	25087
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	25295
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2003"	"2003"	25758
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2004"	"2004"	26943
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2005"	"2005"	26989
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	26355
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	26395
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	26802
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	27647
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	29288
+"Total"	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"			490436
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1990"	"1990"	71925
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1991"	"1991"	74387
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1992"	"1992"	74941
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1993"	"1993"	81942
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1994"	"1994"	83831
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1995"	"1995"	89379
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1996"	"1996"	93892
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1997"	"1997"	95464
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1998"	"1998"	98998
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"1999"	"1999"	102418
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2000"	"2000"	107021
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	104238
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	107139
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2003"	"2003"	117017
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	120568
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	123274
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	122358
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	123612
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	135021
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	142482
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	153530
+"Total"	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"			2223437
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1990"	"1990"	239928
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1991"	"1991"	245365
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1992"	"1992"	253976
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1993"	"1993"	260291
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1994"	"1994"	275086
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1995"	"1995"	290382
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1996"	"1996"	296651
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1997"	"1997"	310722
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1998"	"1998"	312119
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"1999"	"1999"	319109
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2000"	"2000"	321740
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2001"	"2001"	310413
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2002"	"2002"	309003
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2003"	"2003"	312002
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2004"	"2004"	317230
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2005"	"2005"	319644
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2006"	"2006"	300944
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2007"	"2007"	287833
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2008"	"2008"	288584
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2009"	"2009"	287135
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2010"	"2010"	311092
+"Total"	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"			6169249
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1990"	"1990"	1593998
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1991"	"1991"	1606177
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1992"	"1992"	1684705
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1993"	"1993"	1718996
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1994"	"1994"	1765445
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1995"	"1995"	1804286
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1996"	"1996"	1821062
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1997"	"1997"	1893241
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1998"	"1998"	1902818
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"1999"	"1999"	1895608
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2000"	"2000"	1900580
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2001"	"2001"	1882360
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2002"	"2002"	1849796
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2003"	"2003"	1830885
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2004"	"2004"	1823200
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2005"	"2005"	1774222
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2006"	"2006"	1653163
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2007"	"2007"	1612426
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2008"	"2008"	1593448
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	1624049
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	"2010"	"2010"	1703764
+"Total"	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"			36934229
+"Total"	"40 years"	"40"	"Female"	"F"					45817351
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1990"	"1990"	14811
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1991"	"1991"	15516
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1992"	"1992"	16434
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1993"	"1993"	17222
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1994"	"1994"	18136
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1995"	"1995"	19024
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1996"	"1996"	19812
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1997"	"1997"	21145
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1998"	"1998"	22104
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	22947
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	23823
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	23606
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	24500
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2003"	"2003"	25229
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2004"	"2004"	26105
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2005"	"2005"	26672
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	26031
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	25941
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	26974
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	28550
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	30244
+"Total"	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"			474826
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1990"	"1990"	62557
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1991"	"1991"	65640
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1992"	"1992"	66440
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1993"	"1993"	73489
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1994"	"1994"	76056
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1995"	"1995"	81607
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1996"	"1996"	85567
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1997"	"1997"	88164
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1998"	"1998"	91377
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"1999"	"1999"	94563
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2000"	"2000"	98870
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	94612
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	99435
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2003"	"2003"	107936
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	110230
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	113319
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	111141
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	110805
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	119965
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	126556
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	137147
+"Total"	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"			2015476
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1990"	"1990"	207213
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1991"	"1991"	210414
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1992"	"1992"	218646
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1993"	"1993"	225276
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1994"	"1994"	240108
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1995"	"1995"	253557
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1996"	"1996"	259723
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1997"	"1997"	274868
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1998"	"1998"	276932
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"1999"	"1999"	282243
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2000"	"2000"	287225
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2001"	"2001"	273309
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2002"	"2002"	273239
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2003"	"2003"	274832
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2004"	"2004"	280103
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2005"	"2005"	285315
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2006"	"2006"	268779
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2007"	"2007"	254838
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2008"	"2008"	257373
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2009"	"2009"	257800
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2010"	"2010"	280479
+"Total"	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"			5442272
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1990"	"1990"	1595340
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1991"	"1991"	1606901
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1992"	"1992"	1691393
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1993"	"1993"	1724147
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1994"	"1994"	1773034
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1995"	"1995"	1823394
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1996"	"1996"	1837038
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1997"	"1997"	1919172
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1998"	"1998"	1930980
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"1999"	"1999"	1926604
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2000"	"2000"	1932264
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2001"	"2001"	1892976
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2002"	"2002"	1863505
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2003"	"2003"	1835730
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2004"	"2004"	1836550
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2005"	"2005"	1800948
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2006"	"2006"	1675823
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2007"	"2007"	1629491
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2008"	"2008"	1617543
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2009"	"2009"	1650964
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	"2010"	"2010"	1741302
+"Total"	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"			37305099
+"Total"	"40 years"	"40"	"Male"	"M"					45237673
+"Total"	"40 years"	"40"							91055024
+"Total"									91055024
+"---"
+"Dataset: Bridged-Race Population Estimates 1990-2020"
+"Query Parameters:"
+"Age: 40 years"
+"Yearly July 1st Estimates: 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006;"
+"2007; 2008; 2009; 2010"
+"Group By: Age; Gender; Race; Yearly July 1st Estimates"
+"Show Totals: True"
+"Show Zero Values: False"
+"Data Table: Default"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/bridged-race.html for more information."
+"---"
+"Query Date: Jan 8, 2025 11:54:08 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Bridged-Race Population Estimates, United States July 1st resident"
+"population by state, county, age, sex, bridged-race, and Hispanic origin. Compiled from 1990-1999 bridged-race intercensal"
+"population estimates (released by NCHS on 7/26/2004); revised bridged-race 2000-2009 intercensal population estimates (released"
+"by NCHS on 10/26/2012); and bridged-race Vintage 2020 (2010-2020) postcensal population estimates (released by NCHS on"
+"9/22/2021). Available on CDC WONDER Online Database. Accessed at http://wonder.cdc.gov/bridged-race-v2020.html on Jan 8, 2025"
+"11:54:08 PM"
+"---"
+Footnotes:
+"1. Estimates for 1990-1999 are bridged-race intercensal population estimates of the July 1 resident population. Estimates for"
+"2000-2009 are revised bridged-race intercensal estimates of the July 1 resident population. Estimates for 2010-2020 are"
+"bridged-race Vintage 2020 postcensal estimates of the July 1 resident population. These estimates were prepared by the Census"
+"Bureau in collaboration with NCHS."
+"---"
+Caveats:

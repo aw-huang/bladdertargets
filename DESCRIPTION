@@ -1,0 +1,20 @@
+Package: bladdertargets
+Title: Data Package For Bladder Cancer Models
+Version: 0.0.0.1
+Authors@R: 
+    person(
+      given = "Andrew", 
+      family = "Huang", 
+      email = "andrew_huang2@brown.edu", 
+      role = c("aut", "cre"),
+      comment = c(GITHUB = "https://github.com/aw-huang/bladdertargets"))
+Description: Contains data to be used by CISNET Bladder Cancer models as targets for calibration and validation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    tibble
