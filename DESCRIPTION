@@ -8,7 +8,7 @@ Authors@R:
       email = "andrew_huang2@brown.edu", 
       role = c("aut", "cre"),
       comment = c(GITHUB = "https://github.com/aw-huang/bladdertargets"))
-Description: Contains data to be used by CISNET Bladder Cancer models as targets for calibration and validation.
+Description: Contains data to be used by CISNET Bladder Cancer models as targets for calibration and validation. Currently contains the following datasets: (us_pop_40)
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

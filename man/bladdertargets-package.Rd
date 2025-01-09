@@ -6,7 +6,7 @@
 \alias{bladdertargets-package}
 \title{bladdertargets: Data Package For Bladder Cancer Models}
 \description{
-Contains data to be used by Bladder Cancer models as targets for calibration and validation.
+Contains data to be used by CISNET Bladder Cancer models as targets for calibration and validation. Currently contains the following datasets: (us_pop_40)
 }
 \author{
 \strong{Maintainer}: Andrew Huang \email{andrew_huang2@brown.edu} (https://github.com/aw-huang/bladdertargets)
