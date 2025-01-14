@@ -13,4 +13,4 @@
 #' }
 #' @source National Intercensal Data Files, U.S. Census Bureau
 #' \url{https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html}
-"us_pop_40"
+"us_pop_age40"
